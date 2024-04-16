@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container-fluid{
+    background-color: #B3C8CF;
+    width: 100%;
+}
+body{
+    background-color:white;
+}
+
+.cont{
+    width: 100%;
+    background-color: black;
+    height: 150vh;
+    
+}
+
+
+ .carousel-item{
+    height: 90vh;
+
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+
+}
+.navbar {
+    position: sticky;
+    
+}
